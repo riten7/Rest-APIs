@@ -1,0 +1,9 @@
+{
+  "Course": {
+    "dbConfig": {
+      "host": "mongodb://localhost/courseproject",
+      "port": "9000"
+    },
+    "jwtPrivateKey": "riten_jwtPrivateKey"
+  }
+}
